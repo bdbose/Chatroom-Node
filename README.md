@@ -14,3 +14,5 @@ This is the backend socket setup for a Chat Application 🚀
 npm i
 npm run dev
 ```
+
+### For the Frontend Code : https://github.com/bdbose/Chatroom-React
